@@ -46,8 +46,10 @@
 
 ## 🎥 实机演示与多渠道下载
 
+* **实机战斗演示视频（B 站）**：[`BV1rvy4zuEsE`](https://www.bilibili.com/video/BV1rvy4zuEsE/)（`https://www.bilibili.com/video/BV1rvy4zuEsE/`）
 * **GitHub 仓库 / Release 直下**：[`skadi00147/Limbus-10314-Doubao`](https://github.com/skadi00147/Limbus-10314-Doubao)
-* *(B 站实机演示视频与国内网盘分流链接待补充)*
+* **夸克网盘分流（`Limbus-10314-Doubao-v1.0.0.zip`）**：[`https://pan.quark.cn/s/3fc079c0b26a?pwd=wh8k`](https://pan.quark.cn/s/3fc079c0b26a?pwd=wh8k)（提取码：`wh8k`）
+* **百度网盘分流（`Limbus-10314-Doubao-v1.0.0.zip`）**：[`https://pan.baidu.com/s/1eXCSZr_zjR0-aoiWFltclA?pwd=j4df`](https://pan.baidu.com/s/1eXCSZr_zjR0-aoiWFltclA?pwd=j4df)（提取码：`j4df`）
 
 ---
 
